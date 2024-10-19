@@ -1,0 +1,19 @@
+    .container_login {
+        width: 100vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .box {
+          width: 300px;
+          height: 300px;
+        }
+
+
+        #preview img {
+                    width: 300px; /* Definindo a largura da imagem */
+                    height: 200px; /* Definindo a altura da imagem */
+                    object-fit: cover; /* Ajusta a imagem para cobrir o espaço definido */
+                }
